@@ -1,5 +1,5 @@
 # Demo
 This is my demo repo
-Author-Ranu Patel
+Author-Ranu Gurjar
 <br>
 This is demo project
